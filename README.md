@@ -14,20 +14,31 @@
   <a href="https://github.com/hamsypg/WAR-LORDS-APP/releases">All releases</a>
 </p>
 
+<p align="center">
+  <a href="#العربية">العربية</a> · <a href="#english">English</a> · <a href="#türkçe">Türkçe</a>
+</p>
+
 ---
+
+<div dir="rtl">
 
 ## العربية
 
-**تطبيق تحالف WAR LORDS الرسمي لأندرويد**، خاص بأعضاء التحالف. فيه نفس الحساب ونفس المعطيات اللي فالمنصة ديال التحالف: أرض الفتوحات، حرب الممالك، مركز الفعاليات، ومركز التطوير.
+**تطبيق أندرويد الرسمي لتحالف WAR LORDS**، وهو مخصّص لأعضاء التحالف. يعمل بالحساب نفسه والبيانات نفسها الموجودة في منصة التحالف: أرض الفتوحات، وحرب الممالك، ومركز الفعاليات، ومركز التطوير.
 
 ### التثبيت
-1. حمّل [`war-lords.apk`](https://github.com/hamsypg/WAR-LORDS-APP/releases/latest/download/war-lords.apk).
-2. حلّ الملف. إلا طلب أندرويد «السماح بالتثبيت من هاد المصدر»، قبل.
-3. دخل بالرمز السري وكلمة السر اللي عطاوك المشرفين.
+1. حمّل الملف [`war-lords.apk`](https://github.com/hamsypg/WAR-LORDS-APP/releases/latest/download/war-lords.apk).
+2. افتح الملف، وإذا طلب أندرويد السماح بالتثبيت من هذا المصدر فوافق.
+3. سجّل الدخول بالرمز السري وكلمة السر اللذين يعطيك إياهما المشرفون.
 
-### التحديثات أوتوماتيكية
-- **المحتوى:** أي تحديث للمنصة كيبان فالتطبيق مباشرة، بلا ما تعاود تثبّت والو.
-- **التطبيق نفسو:** ملي كتخرج نسخة جديدة، التطبيق كيقول ليك «تحديث جديد للتطبيق» وكيحمّلها ويثبّتها بوحدو.
+### التحديثات التلقائية
+- **المحتوى:** يظهر كل تحديث للمنصة في التطبيق مباشرة، دون الحاجة إلى إعادة التثبيت.
+- **التطبيق نفسه:** عند صدور نسخة جديدة يُعلمك التطبيق بها، ثم يحمّلها ويثبّتها تلقائيا.
+
+### المتطلبات
+أندرويد 7.0 أو أحدث، واتصال بالإنترنت.
+
+</div>
 
 ---
 
@@ -46,6 +57,24 @@
 
 ### Requirements
 Android 7.0 or newer, and an internet connection.
+
+---
+
+## Türkçe
+
+**WAR LORDS ittifakının resmi Android uygulaması**, ittifak üyeleri içindir. İttifak platformuyla aynı hesabı ve aynı verileri kullanır: Fetihler Diyarı, Krallıklar Savaşı, Etkinlik Merkezi ve Gelişim Merkezi.
+
+### Kurulum
+1. [`war-lords.apk`](https://github.com/hamsypg/WAR-LORDS-APP/releases/latest/download/war-lords.apk) dosyasını indir.
+2. Dosyayı aç. Android bu kaynaktan yüklemeye izin vermeni isterse izin ver.
+3. Moderatörlerin verdiği gizli kod ve şifreyle giriş yap.
+
+### Otomatik güncellemeler
+- **İçerik:** Platformdaki her güncelleme uygulamada hemen görünür, yeniden yükleme gerekmez.
+- **Uygulamanın kendisi:** Yeni bir sürüm çıktığında uygulama seni bilgilendirir, sonra indirip kendisi yükler.
+
+### Gereksinimler
+Android 7.0 veya üstü ve internet bağlantısı.
 
 ---
 
