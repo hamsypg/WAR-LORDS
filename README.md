@@ -78,4 +78,4 @@ Android 7.0 veya üstü ve internet bağlantısı.
 
 ---
 
-<p align="center">© HAMSY LLC · WAR LORDS alliance. All rights reserved.</p>
+<p align="center">© HAMSypg LLC · WAR LORDS alliance. All rights reserved.</p>
