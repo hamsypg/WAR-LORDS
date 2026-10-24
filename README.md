@@ -2,7 +2,7 @@
   <img src="docs/banner.jpg" alt="WAR LORDS">
 </p>
 
-<h1 align="center">WAR LORDS — Android App</h1>
+<h1 align="center">WAR LORDS | Android App</h1>
 
 <p align="center">
   The official Android app of the <b>WAR LORDS</b> alliance, for alliance members.
