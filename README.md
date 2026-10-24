@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/icon.png" width="120" alt="WAR LORDS">
+  <img src="docs/banner.jpg" alt="WAR LORDS">
 </p>
 
 <h1 align="center">WAR LORDS — Android App</h1>
