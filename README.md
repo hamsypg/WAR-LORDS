@@ -16,8 +16,8 @@
 
 <p align="center">
   <img src="docs/screens/home-dark.jpg" width="200" alt="Home, dark theme">
-  <img src="docs/screens/settings.jpg" width="200" alt="Settings">
-  <img src="docs/screens/language.jpg" width="200" alt="Language">
+  <img src="docs/screens/settings.jpg" width="200" alt="App settings">
+  <img src="docs/screens/notifications.jpg" width="200" alt="Notification settings">
   <img src="docs/screens/home-light.jpg" width="200" alt="Home, light theme">
 </p>
 
@@ -36,12 +36,20 @@
 ### المزايا
 - **المنصة كاملة في تطبيق:** على كامل الشاشة، بالحساب والبيانات نفسها.
 - **فتح سريع:** الصفحات محفوظة في الهاتف، والإنترنت للبيانات فقط. تحديثات المحتوى تُحمَّل في الخلفية، وما تغيّر فقط.
-- **إشعارات حرب الممالك:** عند فتح التسجيل، وقبل إغلاقه بساعة، وقبل بدء الحرب بساعة، وعند بدايتها، حتى والتطبيق مغلق.
-- **تصميم أندرويد:** نوافذ من أسفل الشاشة، ونوافذ تأكيد أصلية، ومظهر فاتح وداكن، وثلاث لغات: العربية والإنجليزية والتركية.
-- **قسم «التطبيق» في الإعدادات:** البحث عن تحديث، وإشعارات الهاتف، وإبقاء الشاشة مضاءة، وإعادة تحميل المحتوى، ومشاركة التطبيق، وإرسال تقرير الأداء.
+- **إشعارات الأطوار (خاصة بالتطبيق):** لحرب الممالك (فتح التسجيل، وقرب إغلاقه، وقبل الحرب، وبدايتها) ولأرض الفتوحات (البداية، وكل جولة، وقرب نهايتها)، حتى والتطبيق مغلق.
+- **إعدادات الإشعارات:** فعّل أو أوقف كل تنبيه على حدة، وشاهد التنبيه القادم، وأرسل إشعارا تجريبيا.
+- **تصميم WAR LORDS:** أيقونات ذهبية خاصة، وشارات ألقاب على شكل دروع بإطار ذهبي أو فضي أو برونزي حسب المرتبة، ومظهر فاتح وداكن مع الشفافية.
+- **تصميم أندرويد:** نوافذ من أسفل الشاشة، ونوافذ تأكيد أصلية، وثلاث لغات: العربية والإنجليزية والتركية.
+- **قسم «التطبيق» في الإعدادات:** البحث عن تحديث، وإعدادات الإشعارات، وإبقاء الشاشة مضاءة، وإعادة تحميل المحتوى، ومشاركة رابط التحميل المباشر، والإبلاغ عن مشكلة.
+- **مجاني وبلا إعلانات.**
+
+<p align="center">
+  <img src="docs/screens/badges.jpg" width="300" alt="شارات الألقاب">
+</p>
 
 <p align="center">
   <img src="docs/screens/login.jpg" width="200" alt="تسجيل الدخول">
+  <img src="docs/screens/language.jpg" width="200" alt="اللغة">
   <img src="docs/screens/confirm.jpg" width="200" alt="نافذة تأكيد">
 </p>
 
@@ -52,7 +60,7 @@
 
 ### التحديثات
 - **المحتوى:** يصل كل تحديث للمنصة إلى التطبيق تلقائيا، دون إعادة التثبيت.
-- **التطبيق نفسه:** عند صدور إصدار جديد يُعلمك التطبيق، ويُفتح ملفه في المتصفح لتثبيته من إشعار التنزيل.
+- **التطبيق نفسه:** عند صدور إصدار جديد يُعلمك التطبيق، ويُحمَّل ملفه في المتصفح مباشرة (لا في تطبيق GitHub) لتثبيته من إشعار التنزيل.
 
 ### المتطلبات
 أندرويد 7.0 أو أحدث، واتصال بالإنترنت.
@@ -68,9 +76,12 @@
 ### Features
 - **The whole platform in an app:** full screen, with the same account and data.
 - **Fast opening:** pages are stored on the phone and the internet is used for data only. Content updates download in the background, only what changed.
-- **Kingdoms War notifications:** when registration opens, one hour before it closes, one hour before the war and when it starts, even when the app is closed.
-- **Android design:** bottom sheets, native confirm dialogs, light and dark themes, and three languages: Arabic, English and Turkish.
-- **An "App" section in Settings:** check for updates, phone notifications, keep screen on, reload content, share the app and send a performance report.
+- **Phase notifications (app only):** for the Kingdoms War (registration opens, closing soon, before the war and when it starts) and the Land of Conquests (start, every round and its last hours), even when the app is closed.
+- **Notification settings:** turn each alert on or off, see the next alert and send a test notification.
+- **WAR LORDS design:** custom gold icons, title badges shaped as shields with a gold, silver or bronze frame by rank, and light and dark themes with transparency.
+- **Android design:** bottom sheets, native confirm dialogs and three languages: Arabic, English and Turkish.
+- **An "App" section in Settings:** check for updates, notification settings, keep screen on, reload content, share the direct download link and report a problem.
+- **Free, with no ads.**
 
 ### Install
 1. Open the [latest release](https://github.com/hamsypg/WAR-LORDS/releases/latest) and download the `war-lords_v….apk` file under Assets.
@@ -79,7 +90,7 @@
 
 ### Updates
 - **Content:** every platform update reaches the app automatically, with nothing to reinstall.
-- **The app itself:** when a new version comes out, the app tells you and opens its file in the browser; install it from the download notification.
+- **The app itself:** when a new version comes out, the app tells you and downloads it straight in the browser (not in the GitHub app); install it from the download notification.
 
 ### Requirements
 Android 7.0 or newer, and an internet connection.
@@ -93,9 +104,12 @@ Android 7.0 or newer, and an internet connection.
 ### Özellikler
 - **Platformun tamamı bir uygulamada:** tam ekran, aynı hesap ve aynı verilerle.
 - **Hızlı açılış:** sayfalar telefonda saklanır, internet yalnızca veriler için kullanılır. İçerik güncellemeleri arka planda, yalnızca değişenler olarak iner.
-- **Krallıklar Savaşı bildirimleri:** kayıt açıldığında, kapanmadan bir saat önce, savaştan bir saat önce ve savaş başladığında; uygulama kapalıyken bile.
-- **Android tasarımı:** alt paneller, yerel onay pencereleri, açık ve koyu tema ve üç dil: Arapça, İngilizce ve Türkçe.
-- **Ayarlarda "Uygulama" bölümü:** güncelleme denetimi, telefon bildirimleri, ekranı açık tut, içeriği yeniden yükle, uygulamayı paylaş ve performans raporu gönder.
+- **Aşama bildirimleri (yalnızca uygulamada):** Krallıklar Savaşı (kayıt açılışı, kapanışa az kala, savaştan önce ve başlangıç) ve Fetih Toprakları (başlangıç, her tur ve son saatleri) için; uygulama kapalıyken bile.
+- **Bildirim ayarları:** her uyarıyı ayrı ayrı aç veya kapat, sıradaki uyarıyı gör ve deneme bildirimi gönder.
+- **WAR LORDS tasarımı:** özel altın simgeler, sıraya göre altın, gümüş veya bronz çerçeveli kalkan biçiminde unvan rozetleri ve şeffaflıkla açık ve koyu tema.
+- **Android tasarımı:** alt paneller, yerel onay pencereleri ve üç dil: Arapça, İngilizce ve Türkçe.
+- **Ayarlarda "Uygulama" bölümü:** güncelleme denetimi, bildirim ayarları, ekranı açık tut, içeriği yeniden yükle, doğrudan indirme bağlantısını paylaş ve sorun bildir.
+- **Ücretsiz ve reklamsız.**
 
 ### Kurulum
 1. [En son sürümü](https://github.com/hamsypg/WAR-LORDS/releases/latest) aç ve Assets altındaki `war-lords_v….apk` dosyasını indir.
@@ -104,7 +118,7 @@ Android 7.0 or newer, and an internet connection.
 
 ### Güncellemeler
 - **İçerik:** Platformdaki her güncelleme, yeniden yükleme gerekmeden uygulamaya kendiliğinden ulaşır.
-- **Uygulamanın kendisi:** Yeni bir sürüm çıktığında uygulama seni bilgilendirir ve dosyasını tarayıcıda açar; indirme bildiriminden yükle.
+- **Uygulamanın kendisi:** Yeni bir sürüm çıktığında uygulama seni bilgilendirir ve dosyasını doğrudan tarayıcıda indirir (GitHub uygulamasında değil); indirme bildiriminden yükle.
 
 ### Gereksinimler
 Android 7.0 veya üstü ve internet bağlantısı.
