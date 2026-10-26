@@ -1,0 +1,9 @@
+{
+  "name": "war-lords-push",
+  "private": true,
+  "description": "Sends the WAR LORDS iPhone app phase alerts (GitHub Actions)",
+  "dependencies": {
+    "firebase-admin": "^13.0.0",
+    "web-push": "^3.6.7"
+  }
+}
